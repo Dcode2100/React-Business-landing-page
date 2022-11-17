@@ -1,0 +1,12 @@
+Name of the site -  heilolambs.
+
+Basic folder structure - npm create vite@latest
+select the react
+
+inside the folder structure - npm install for downloading react dependencies 
+
+to compile on local machine - npm run dev
+
+
+All the unique CSS name inside all the classname are tailwind utility classes
+tailwind is used 
