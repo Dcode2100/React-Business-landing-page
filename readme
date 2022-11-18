@@ -1,12 +1,16 @@
-Name of the site -  heilolambs.
+Name of the site -  Heilolambs.
 
-Basic folder structure - npm create vite@latest
+1.Basic folder structure - npm create vite@latest
 select the react
 
-inside the folder structure - npm install for downloading react dependencies 
+2.inside the folder structure - npm install for downloading react dependencies 
 
-to compile on local machine - npm run dev
-
+3.to compile on local machine - npm run dev
+4.to create a build use simple command - npm run build.
 
 All the unique CSS name inside all the classname are tailwind utility classes
 tailwind is used 
+
+#error in netlify build when used the react-vit build to deploy a new site.
+
+  # to remove the error inside the deploy setting change the directory to dist since the react vit uses the directory as dist and not build.
