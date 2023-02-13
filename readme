@@ -14,3 +14,6 @@ tailwind is used
 #error in netlify build when used the react-vit build to deploy a new site.
 
   # to remove the error inside the deploy setting change the directory to dist since the react vit uses the directory as dist and not build.
+
+
+Backend - supabase for user authentication and data datafetching and updating along the user usage.

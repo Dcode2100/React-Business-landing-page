@@ -32,6 +32,7 @@ const Footer = () => (
                 >
                   {link.name}
                 </li>
+                
               ))}
             </ul>
           </div>
